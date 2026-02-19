@@ -1,17 +1,26 @@
 ## Hi there 👋
-I’m Akhil S, an AI-ML engineering student based in India. 
+I’m Akhil Semwal, an AI-ML engineering student based in India. 
 
-I design and code whatever I can imagine.
+🌱I an still learning anc coding.
 
-If an idea pops into my head, chances are I’ll create and ship it.
+📫If an idea pops into my head, chances are I’ll try create and ship it.
 
-I have a growing set of repos covering my learning journey.
+🤔I have a growing set of repos covering my learning journey.
 
 
 
-**Fun facts:**
+
+
+
+
+            
+
+**⚡Fun facts:**
+
 My favorite movie is Harry Potter.
+
 I love playing football, watching movies.
+
 and listening to music.
 <!--
 **AkhilSemwal/AkhilSemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
