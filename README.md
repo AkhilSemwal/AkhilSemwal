@@ -8,7 +8,8 @@ I’m Akhil Semwal, an AI-ML engineering student based in India.
 🤔I have a growing set of repos covering my learning journey.
 
 
-
+#My thoughts for my github.
+100 genuine commits > 1,000 automated commits if a recruiter/professor actually checks the profile.
 
 
 
