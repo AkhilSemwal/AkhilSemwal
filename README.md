@@ -19,7 +19,7 @@ My thoughts for my github.
 
 **⚡Fun facts:**
 
-My favorite movie is Harry Potter.
+My favorite movie is Shutter Island.
 
 I love playing football, watching movies.
 
