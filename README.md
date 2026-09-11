@@ -24,6 +24,13 @@ My favorite movie is Shutter Island.
 I love playing football, watching movies.
 
 and listening to music.
+
+## 📊 GitHub Stats
+ ![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkhilSemwal&theme=dark&hide_border=true)
+
+
+
+
 <!--
 **AkhilSemwal/AkhilSemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
