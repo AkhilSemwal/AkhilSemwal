@@ -1,48 +1,42 @@
-## Hi there 👋
-I’m Akhil Semwal, an AI-ML engineering student based in India. 
+# Hi there 👋
 
-🌱I an still learning anc coding.
+I'm **Akhil Semwal**, an AI/ML engineering student based in India, interested in **Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Software Development**.
 
-📫If an idea pops into my head, chances are I’ll try create and ship it.
+🌱 Currently learning and building projects to strengthen my fundamentals in computer science and AI/ML.
 
-🤔I have a growing set of repos covering my learning journey.
+💡 I enjoy turning ideas into practical projects and experimenting with new technologies.
 
+🚀 My GitHub documents my learning journey through projects, problem-solving, and technical experiments.
 
-**My thoughts for my github:"**
+---
 
-100 genuine commits > 1,000 automated commits if a recruiter/professor actually checks the profile.
+## 🛠️ Areas of Interest
 
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Software Development
+- Problem Solving
+- Developer Tools & Automation
 
+---
 
+## 📌 GitHub Philosophy
 
-            
+> **100 genuine commits > 1,000 automated commits**  
+> Quality, consistency, and meaningful work matter more than activity numbers.
 
-**⚡Fun facts:**
+---
 
-My favorite movie is Shutter Island.
+## ⚡ A Little About Me
 
-I love playing football, watching movies.
+- 🎓 AI/ML Engineering Student
+- ⚽ Football enthusiast
+- 🎬 Movie lover
+- 🎵 Music enthusiast
+- 🎥 Favorite movie: *Shutter Island*
 
-and listening to music.
+---
 
 ## 📊 GitHub Stats
- ![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkhilSemwal&theme=dark&hide_border=true)
 
-
-
-
-<!--
-**AkhilSemwal/AkhilSemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![Akhil's GitHub Streak](https://streak-stats.demolab.com/?user=AkhilSemwal&theme=dark&hide_border=true)
